@@ -1,0 +1,1 @@
+a[i]-Math.min(left[i], right[i])
